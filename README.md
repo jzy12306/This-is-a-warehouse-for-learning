@@ -15,7 +15,7 @@
 ### [项目1 Student-Management-System项目简介]
 
 - 描述：项目简介
-- 连接:
+- 连接:https://github.com/jzy12306/Student-Management-System
 
 ### [项目2名称]
 
