@@ -16,6 +16,7 @@
 - **前端技术**：Vue.js 3、React、JavaScript (ES6+)、TypeScript、HTML5/CSS3
 - **后端技术**：Node.js、Python（Django、Flask、FastAPI、Tornado）、Nginx
 - **数据库**：MySQL、MongoDB、Redis、Neo4j、向量数据库、SQLite
+- **爬虫能力**：Selenium 4.x（浏览器自动化）
 
 ### 开发工具与实践
 
@@ -38,6 +39,20 @@
 - 连接:https://github.com/jzy12306/Student-Management-System
 
 ### [项目2名称]
+
+- 描述：项目简介
+- 技术：使用的技术栈
+- [在线演示]() | [源代码]()
+
+
+### [项目3名称]
+
+- 描述：项目简介
+- 技术：使用的技术栈
+- [在线演示]() | [源代码]()
+
+
+### [项目4名称]
 
 - 描述：项目简介
 - 技术：使用的技术栈
