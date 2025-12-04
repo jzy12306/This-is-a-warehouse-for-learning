@@ -42,7 +42,7 @@
 
 - 描述：爬取智联招聘的工作岗位
 - 技术：
-- - **编程语言**：Python
+- **编程语言**：Python
 - **网络请求**：requests、urllib3
 - **动态爬虫**：Selenium 4.x（浏览器自动化）
 - **WebDriver管理**：webdriver-manager（自动管理浏览器驱动）
