@@ -4,11 +4,31 @@
 
 重生这一世，发现自己依然是个普通路人。虽然没有‘龙傲天’剧本，却有着踏实前进的决心。相信持续的努力比一时的闪光更重要，正在用代码书写属于自己的成长故事。
 
-## 🛠 技术栈
+## 专业技能
 
-- 编程语言: JavaScript, Python, HTML/CSS
-- 框架: 用到啥说撒
-- 工具: Git, VS Code
+### 核心技能 - AI智能体开发
+
+- **AI与大模型**：阿里云大模型Clouder认证、模型训练/微调、大模型应用集成
+- **AI智能体开发**：AI agent开发框架、智能体系统设计、知识图谱构建（Neo4j）、向量数据库应用
+
+### 全栈开发能力
+
+- **前端技术**：Vue.js 3、React、JavaScript (ES6+)、TypeScript、HTML5/CSS3
+- **后端技术**：Node.js、Python（Django、Flask、FastAPI、Tornado）、Nginx
+- **数据库**：MySQL、MongoDB、Redis、Neo4j、向量数据库、SQLite
+
+### 开发工具与实践
+
+- **版本控制**：Git、GitHub、Gitee等版本管理工具
+- **工具链**：Webpack、Axios、npm
+- **DevOps**：Docker、Linux、Prometheus
+- **开发能力**：MVP快速开发、组件化开发、响应式设计、数据可视化
+- **性能优化**：CDN加速、缓存策略、数据库索引优化、并发处理
+
+### 其他技能
+
+- **物联网技术**：物联网应用开发、物联网安全技术 (中级证书)
+- **软技能**：职业规划、创意策划、团队协作、问题解决、飞书协作
 
 ## 📁 项目展示
 
