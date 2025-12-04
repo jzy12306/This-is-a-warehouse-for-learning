@@ -33,16 +33,22 @@
 
 ## 📁 项目展示
 
-### [项目1 Student-Management-System项目简介]
+### [项目1 Student-Management-System]
 
-- 描述：项目简介
+- 描述：使用python编写的一个简易的学生管理系统
 - 连接:https://github.com/jzy12306/Student-Management-System
 
-### [项目2名称]
+### [项目2 WebCrawler_zhilianzhaopin]
 
-- 描述：项目简介
-- 技术：使用的技术栈
-- [在线演示]() | [源代码]()
+- 描述：爬取智联招聘的工作岗位
+- 技术：
+- - **编程语言**：Python
+- **网络请求**：requests、urllib3
+- **动态爬虫**：Selenium 4.x（浏览器自动化）
+- **WebDriver管理**：webdriver-manager（自动管理浏览器驱动）
+- **数据格式**：JSON
+- **开发环境**：Windows系统
+
 
 
 ### [项目3名称]
