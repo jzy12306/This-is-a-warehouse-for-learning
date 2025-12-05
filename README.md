@@ -40,8 +40,8 @@
 
 ### [项目2]	WebCrawler_zhilianzhaopin
 
-- **描述：**爬取智联招聘的工作岗位
-- **网址:**https://github.com/jzy12306/WebCrawler_zhilianzhaopin
+- **描述:** 爬取智联招聘的工作岗位
+- **网址:** https://github.com/jzy12306/WebCrawler_zhilianzhaopin
 - **技术栈:**
   - **编程语言**：Python
   - **网络请求**：requests、urllib3
