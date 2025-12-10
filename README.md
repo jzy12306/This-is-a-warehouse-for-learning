@@ -54,7 +54,8 @@
 
 - **描述:** 实现一个基于知识图谱的智能问答系统后端服务
 - **网址:** https://github.com/jzy12306/WebCrawler_zhilianzhaopin
-**技术栈:**- **前端技术:**
+- **技术栈:**
+  - **前端技术:**
   - **编程语言**: TypeScript
   - **前端框架**: React 18.2.0
   - **UI组件库**: Material-UI (MUI) 5.15.0
